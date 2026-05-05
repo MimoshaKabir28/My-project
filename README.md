@@ -1,19 +1,17 @@
-// This is a C-based project that simulates a inventory management system using data structures//
+ This is a C-based project that simulates a inventory management system using data structures.
 
-//Features//
+Features:
 
-● Add Product
-● Display Products
-● Search Product
-● Delete Product
-● Undo Delete
-● Exit
+1. Add Product
+2. Display Products
+3. Search Product
+4. Delete Product
+5. Undo Delete
+6. Exit
 
-//Data structures used//
+Data structures used:
+1.Hash Table
+2.Stack
 
-●Hash Table
-●Stack
-
-//Language//
-
+Language:
 C programming
